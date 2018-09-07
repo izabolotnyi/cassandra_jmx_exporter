@@ -1,7 +1,7 @@
 ---
-host: localhost:7199	
-ssl: False	
-listenPort: 7070 
+host: localhost:7199
+ssl: False
+listenPort: 7070
 lowercaseOutputName: true
 lowercaseOutputLabelNames: true
 whitelistObjectNames: [
